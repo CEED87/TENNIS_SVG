@@ -1,0 +1,27 @@
+.start {
+    position: relative;
+    top: 85px;
+    border: none;
+    width: 133px;
+    height: 25px;
+    font-size: larger;
+    background-color: rgb(175, 172, 172);
+
+}
+
+.check {
+    position: relative;
+    left: 297px;
+    top: 38px;
+    font-size: 50px;
+    margin: initial;
+
+}
+
+circle {
+    position: absolute;
+}
+
+.racket {
+    position: absolute;
+}
